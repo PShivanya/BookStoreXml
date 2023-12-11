@@ -12,7 +12,7 @@
 ]> 
 
 
-<bookstore>
+<Bookstore>
 <book>
 <bookname> Python Programming Book</bookname>
 <bookauthor>Guido van Rossum</bookauthor>
@@ -48,4 +48,4 @@
 <ISBN>73456</ISBN>
 <pages>300</pages>
 </book>
-</bookstore>
+</Bookstore>
